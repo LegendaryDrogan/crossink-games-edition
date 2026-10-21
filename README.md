@@ -27,7 +27,7 @@ a plan, but it is there.
 newest release here, downloads it, verifies it, and installs it.
 
 **From the SD card:** download `firmware.bin` below, copy it to the card, then on the device
-go to Settings → System → **Firmware Update** and pick the file.
+go to Settings → System → **SD Card Firmware Update** and pick the file.
 
 > **Latest image:** [`firmware.bin`](../../releases/latest/download/firmware.bin)
 
